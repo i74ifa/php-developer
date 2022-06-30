@@ -1,0 +1,26 @@
+{
+    "name": "php-developer",
+    "displayName": "php developer",
+    "description": "All extensions for php developers",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bmewburn.vscode-intelephense-client",
+        "mehedidracula.php-namespace-resolver",
+        "xdebug.php-debug",
+        "formulahendry.auto-close-tag",
+        "christian-kohler.path-intellisense",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
+        "adpyke.codesnap",
+        "editorconfig.editorconfig",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
